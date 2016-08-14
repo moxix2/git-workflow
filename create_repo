@@ -1,0 +1,3 @@
+mkdir yourrepo
+cd to that dir
+git init
