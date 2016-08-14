@@ -1,2 +1,0 @@
-git reset --hard commit id (HEAD HEAD^ HEAD^^ HEAD~100)
-git reflog to see history commmand
